@@ -1,0 +1,187 @@
+… · 
+
+
+녹색-핏빛-푸른-청동-백은-황금-검은
+
+이(가)   은(는)  을(를) 과(와)
+
+---몹---
+Gorgon 고르곤
+Drauven 드라우븐
+Thrixl 스릭슬?
+Morthagi 모르 뭐시기? 영어 병신
+Deepist 디피스트, 깊은 자들. 코드상으로는 Cultist라고도 써있는데 이름 정하는 데 영향은 못 줄 듯
+Yondering Land 멀 원에 멀 경자 써서 원경지 어떰? 조금 -짱-같은가. 공식 중국어 번역은 요원지지(辽远之地)를 사용함
+
+---변신---
+~touched = ~손길
+~soul = ~혼
+Beartouched = 곰손길
+Celestial = 별무리
+Child of the Hill = 언덕의 아이
+Crowtouched = 까마귀손길
+Crystalline = 수정질
+Flamesoul = 불꽃혼
+Mortificial Enhancements = 
+Shadow = 그림자
+Skeletal = 해골
+Sylvan = 우거짐
+
+---장비---
+Amulet = 액막이
+Belt = 허리띠
+Braclet = 팔찌
+Sash = 허리장식
+Scarf = 목도리
+Brooch = 흉장
+Talisman = 부적
+Pauldron = 어깨갑옷
+Kneepad = 무릎받이
+
+---기타---
+Ability = 능력
+Accuracy = 명중률 x ->정확성
+Action point = 행동력
+Active = 발동
+Adjacent = 인접
+Agility = 민첩성? 기민함?
+Ambush = 기습
+Amulet
+Ancient = 고대 (이거랑 primal중에 하나는 번역을 바꿔야 할 듯)
+Armor = 방어구
+Artifact = 보물
+Aspect = 특성
+Axe = 도끼
+Augment = 장신구
+Blaze = 불길
+Blind = 실명
+Block = 수비
+Blurb = 설명문
+Bonus damage = 추가 피해
+Book = 도서
+Calamity = 재앙
+Charisma =  매력
+Claim = 착용
+Company = 
+Clothes = 의복? 의상? 뭐라고 썼던 것 같기도 하고
+Corruption = 타락, 분위기나 묘사는 역병이 더 괜찮아보이는데 일단 타락으로 써둠
+Dazzled = 혼란, 보통 혼란은 confused 쓰던데 좀 더 까리한 거 있으면 좋을 듯
+Debris = 잔해
+Destroyed = 붕괴됨
+Defenses = 방어시설
+Distillery = 양조장
+Dodge = 회피
+Dreamloom = 꿈길쌈장
+Dueling sword = 결투용 검
+Earth = 지면
+Earthscribe = 지면필경학
+Element 물불풀돌 하면 간지가 안 나서 좀 있어보이게 써놨는데 이건 생각 좀 해 봐야 할 듯
+	-Fire = 불꽃
+	-Leaf = 이파리
+	-Stone = 바위
+	-Water = 물결
+	
+Elementalist = 원소학
+Enchant = 재련
+Equip = 장착
+Event = 사건
+Extra = 추가
+Flank = 측면 공격
+Fabric = 직물
+Feather = 깃털
+Font = 세례소
+Forest Shrine = 숲의 사당
+Forge = 야장간
+Free action = 자유 행동
+Garb = 의류
+Gear = 장비
+Ghost = 유령
+Greatsword = 대검
+Greatspear = 장창
+Greataxe = 거대 도끼, 한 단어짜리 더 나은 번역이 있었으면
+Grove = 채집장
+Heartwood = 심목
+Henge = 고인돌
+Hidden = 은신
+Hide = 가죽
+History = 개인사
+Humanist = 인류학
+Hunters blind = 사냥용 감시초소
+Hobble = 절름발
+Hook = 기질
+Incursion = 습격
+Infestation = 점령
+Ingot = 덩이쇠
+Item = 물품
+Job = 작업
+Konckback = 밀쳐냄
+Laboratory = 연구소
+Legacy = 설화 -> 전승?
+Legacy Point = 이야깃거리, 게임 내 용도나 그런 거 생각해서 의역했는데 그냥 전승 점수같은 식으로 써줘도 될 듯
+Library = 도서관
+~Ling = ~살이?
+Lumberyard = 목재 집하장
+Magic Damage = 마법 피해
+Maim = 결손
+Map = 맵? (전투 맵을 말하는 듯, 지도를 쓰자니 overland랑 겹치는데 overland지도상은 마음에 안 들어서 바꾼다 해도 지도를 쓰는 건 의미 전달이 잘 안 되는 느낌)
+Mechanisms = 기계
+Melee Attack = 근접 공격
+Mine = 광산
+Monarch = 군주
+Monster = 괴물
+Nearby = 가까운
+Note: = 참고:
+Objective = 목표
+Outfitter = 양장점
+Overland = 지도상(바꿀 필요가 있는 듯)
+Party = 단원? 그냥 파티 전체를 지칭할 때는 뭐로 해야 할까
+Passive = 자동
+Patrol = 순찰
+Phantom = 망령
+Pierce = 관통
+Pinned = 고정
+Potency = 정신력
+Primal Altar = 고대 제단
+Quarry = 채석장
+Range = 사거리
+Ranged attack = 원거리 공격
+Ranger = 수비데
+Recovery Rate = 회복 속도
+Recruit = 모집
+Relic = 유물
+Retirement Age = 은퇴 연령
+Retreat = 후퇴
+Rival = 라이벌
+Ruined = 파손됨
+Scenery = 사물
+Scout = 정찰
+Shards = 파편
+Shred = 파쇄
+Single action = 행동력을 1 소모(단일 행동?)
+Site = 거점
+Spectral = 으스스하다
+Spell damage = 주문 피해
+Spellthread = 마법실타래
+Spirit = 정령
+Staff = 지팡이
+Stat = 능력치
+Station = 시설
+Statue = 조각상
+Stunt = 신기, 좀 별로라 더 괜찮은 거 있으면 좋을 듯
+Swift action = 신속 행동
+Tannery = 가죽 공방
+Task = 작업
+Temp Health = 임시 체력
+Textiles = 직물
+Tier = 단계
+Tool = 잡동사니
+Tower = 고탑
+True damage = 순수 피해
+Wand = 단장
+Warding = 항마
+Wanderer = 떠돌이
+Waterwheel = 물레방앗간
+Weaverworks = 방적소
+Wilderness = 야생
+Walling = 대형
+Windmill = 풍찻간
