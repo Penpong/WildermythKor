@@ -12,6 +12,7 @@ Thrixl 스릭슬?
 Morthagi 모르 뭐시기? 영어 병신
 Deepist 디피스트, 깊은 자들. 코드상으로는 Cultist라고도 써있는데 이름 정하는 데 영향은 못 줄 듯
 Yondering Land 멀 원에 멀 경자 써서 원경지 어떰? 조금 -짱-같은가. 공식 중국어 번역은 요원지지(辽远之地)를 사용함
+Essence Torches 정수요화
 
 ---변신---
 ~touched = ~손길
