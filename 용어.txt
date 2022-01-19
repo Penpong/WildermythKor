@@ -119,6 +119,7 @@ Hook = 기질
 Incursion = 습격
 Infestation = 점령
 Ingot = 덩이쇠
+Interval = 
 Item = 물품
 Job = 작업
 Knight = 대부, 사대부 할 때 그 대부임. 기사 하면 말을 타야 하는데 knight 호칭을 갖고 있으면서 말은 고사하고 뭘 타고 다니는 애가 없어서 이렇게 번역함
