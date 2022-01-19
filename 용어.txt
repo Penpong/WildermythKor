@@ -67,6 +67,7 @@ Book = 도서
 Calamity = 재앙
 Captain = 지휘관
 Charisma =  매력
+Chapter = 챕터
 Claim = 착용
 Company = 
 Clothes = 의복? 의상? 뭐라고 썼던 것 같기도 하고
