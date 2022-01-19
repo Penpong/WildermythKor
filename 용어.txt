@@ -61,6 +61,7 @@ Blurb = 설명문
 Bonus damage = 추가 피해
 Book = 도서
 Calamity = 재앙
+Captain = 
 Charisma =  매력
 Claim = 착용
 Company = 
