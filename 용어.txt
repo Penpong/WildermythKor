@@ -6,7 +6,11 @@
 이(가)   은(는)  을(를) 과(와)
 
 ---몹---
-Gorgon 고르곤
+Gorgon 고르곤 
+>>
+	Halfglance Gorgon 반흘김 고르곤
+	Gorgon Seacaller 고르곤 바다부름꾼
+
 Drauven 드라우븐
 Thrixl 스릭슬?
 Morthagi 모르 뭐시기? 영어 병신
