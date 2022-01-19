@@ -11,7 +11,7 @@ Gorgon 고르곤
 	Halfglance Gorgon 반흘김 고르곤
 	Gorgon Seacaller 고르곤 바다부름꾼
 
-Drauven 드라우븐
+Drauven 드라우브들  (Drauv 드라우브 (단수형)) 아니면 용에 기원을 둔 파충류니까 용파족?	
 Thrixl 스릭슬?
 Morthagi 모르 뭐시기? 영어 병신
 Deepist 디피스트, 깊은 자들. 코드상으로는 Cultist라고도 써있는데 이름 정하는 데 영향은 못 줄 듯
