@@ -119,6 +119,7 @@ Hook = 기질
 Incursion = 습격
 Infestation = 점령
 Ingot = 덩이쇠
+Interfusion = 정신융합
 Interval = 
 Item = 물품
 Job = 작업
